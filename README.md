@@ -1,3 +1,23 @@
+<style>
+  /* define the grid container */
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* create 3 equal columns */
+    gap: 10px; /* set the gap between grid items */
+  }
+  
+  /* style the unordered list */
+  ul {
+    list-style-type: none; /* remove the default bullet points */
+  }
+  
+  /* style the list items */
+  li {
+    background-color: #eee; /* set a background color */
+    padding: 10px; /* add some padding to the list items */
+  }
+</style>
+
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/D4D16AQEdyHtRpk-Qtw/profile-displaybackgroundimage-shrink_350_1400/0/1681330192761?e=1687996800&v=beta&t=FpCOXp3G7iVvDg7EuD3DJxeHpL2OvG5FAKA2PqrBn-s" width="800" height="160" alt="banner-picture">
     <div id="badges">
@@ -22,22 +42,31 @@
 As a Full Stack Developer hailing from Argentina, I specialize in developing and maintaining web applications, with expertise in both server-side and client-side development. My skill set spans across various programming languages, including HTML, CSS, JavaScript, Node.js, React, and Redux. I possess a strong understanding of fundamental programming principles and can work in both development and production environments while collaborating effectively with other team members.
 
 ## Education
+<div align="left">
 
 - Systems Engineering program at the National University of La Plata (UTN FRLP)
 
+</div>
+
 ## Interests
 
+<div align="left">
+
 - Solving problems on CodeWars and FreeCodeCamp.org
+
 - Reading tech articles
+
 - I enjoy all kinds of reading.
+
 - I enjoy cycling, going for walks and jogs, and I also really like swimming.
 
 - If you wish to get in touch with me, feel free to drop me a message.
+</div>
 
 
 
 ### :hammer_and_wrench: Tech Stack :
-<div>
+<div class="grid-container">
 <ul>
   <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
