@@ -21,7 +21,11 @@
 # Full Stack Developer
 
 As a Full Stack Developer hailing from Argentina, I specialize in developing and maintaining web applications, with expertise in both server-side and client-side development. My skill set spans across various programming languages, including HTML, CSS, JavaScript, Node.js, React, and Redux. I possess a strong understanding of fundamental programming principles and can work in both development and production environments while collaborating effectively with other team members.
-- E-mail: ***francoibanez.dev@gmail***
+  <div align="left">
+    
+* E-mail: [__francoibanez.dev@gmail.com__](mailto:francoibanez.dev@gmail.com)
+    
+  </div>
 ## :school: Education
 <div align="left">
 
