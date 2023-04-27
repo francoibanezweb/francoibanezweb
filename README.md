@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/D4D16AQEdyHtRpk-Qtw/profile-displaybackgroundimage-shrink_350_1400/0/1681330192761?e=1687996800&v=beta&t=FpCOXp3G7iVvDg7EuD3DJxeHpL2OvG5FAKA2PqrBn-s" width="800" height="160" alt="banner-picture">
     <div id="badges">
@@ -21,11 +20,12 @@
 # Full Stack Developer
 
 As a Full Stack Developer hailing from Argentina, I specialize in developing and maintaining web applications, with expertise in both server-side and client-side development. My skill set spans across various programming languages, including HTML, CSS, JavaScript, Node.js, React, and Redux. I possess a strong understanding of fundamental programming principles and can work in both development and production environments while collaborating effectively with other team members.
-  <div align="left">
+  <div align="center">
     
-* E-mail: [__francoibanez.dev@gmail.com__](mailto:francoibanez.dev@gmail.com)
+    francoibanez.dev@gmail.com
     
   </div>
+  
 ## :school: Education
 <div align="left">
 
@@ -35,7 +35,7 @@ As a Full Stack Developer hailing from Argentina, I specialize in developing and
 
 </div>
 
-## 🏃 🚴 📖 Interests
+##  🏃 🚴 📖 Interests
 
 <div align="left">
 
@@ -48,6 +48,7 @@ As a Full Stack Developer hailing from Argentina, I specialize in developing and
 - I enjoy cycling, going for walks and jogs, and I also really like swimming.
 
 - If you wish to get in touch with me, feel free to drop me a message.
+  
 </div>
 
 
