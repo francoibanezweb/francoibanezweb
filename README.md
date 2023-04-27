@@ -27,6 +27,7 @@ As a Full Stack Developer hailing from Argentina, I specialize in developing and
 
 - Systems Engineering program at the National University of La Plata (UTN FRLP)
 - Full Stack Web Development (Henry Bootcamp)
+- Astillero Río Santiago Technical School, Factory Private School
 
 </div>
 
