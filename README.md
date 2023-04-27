@@ -48,7 +48,7 @@ As a Full Stack Developer hailing from Argentina, I specialize in developing and
 
 
 
-## :hammer_and_wrench: Tech Stack :
+## :hammer_and_wrench: Tech Stack : 
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;  
@@ -65,13 +65,3 @@ As a Full Stack Developer hailing from Argentina, I specialize in developing and
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   
 ---
-
-<!-- <div id="stat-section" align="left">
-
-<!-- ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=francoibanezweb&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoibanezweb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- </div> --> -->
