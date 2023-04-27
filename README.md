@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3LlHVGbZf4qVeYzkSE/giphy.gif" width="100" alt="giphy">
-    <div id="badges">
+  <img src="https://media.licdn.com/dms/image/D4D16AQEdyHtRpk-Qtw/profile-displaybackgroundimage-shrink_350_1400/0/1681330192761?e=1687996800&v=beta&t=FpCOXp3G7iVvDg7EuD3DJxeHpL2OvG5FAKA2PqrBn-s" width="100" alt="banner-picture">
+<!--     <div id="badges">
       <a href="https://www.linkedin.com/in/franco-ezequiel-iba%C3%B1ez-fullstack-web-dev/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> 
       </a>
       <a href="https://twitter.com/francoeibaez">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
        </a>
-    </div>
+    </div> -->
     <img src="https://komarev.com/ghpvc/?username=franco-ibanez-dev&style=flat-square&color=blue" alt=""/>
     <h1>
   Hello there!
