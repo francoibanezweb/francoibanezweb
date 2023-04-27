@@ -1,24 +1,3 @@
-<head>
-<style>
-  /* define the grid container */
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* create 3 equal columns */
-    gap: 10px; /* set the gap between grid items */
-  }
-  
-  /* style the unordered list */
-  ul {
-    list-style-type: none; /* remove the default bullet points */
-  }
-  
-  /* style the list items */
-  li {
-    background-color: #eee; /* set a background color */
-    padding: 10px; /* add some padding to the list items */
-  }
-</style>
-</head>
 
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/D4D16AQEdyHtRpk-Qtw/profile-displaybackgroundimage-shrink_350_1400/0/1681330192761?e=1687996800&v=beta&t=FpCOXp3G7iVvDg7EuD3DJxeHpL2OvG5FAKA2PqrBn-s" width="800" height="160" alt="banner-picture">
