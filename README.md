@@ -22,7 +22,7 @@
 
 As a Full Stack Developer hailing from Argentina, I specialize in developing and maintaining web applications, with expertise in both server-side and client-side development. My skill set spans across various programming languages, including HTML, CSS, JavaScript, Node.js, React, and Redux. I possess a strong understanding of fundamental programming principles and can work in both development and production environments while collaborating effectively with other team members.
 
-## Education
+## :school: Education
 <div align="left">
 
 - Systems Engineering program at the National University of La Plata (UTN FRLP)
@@ -31,7 +31,7 @@ As a Full Stack Developer hailing from Argentina, I specialize in developing and
 
 </div>
 
-## Interests
+## 🏃 🚴 📖 Interests
 
 <div align="left">
 
