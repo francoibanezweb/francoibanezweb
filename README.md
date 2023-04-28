@@ -46,11 +46,6 @@ As a Full Stack Developer hailing from Argentina, I specialize in developing and
 
 - I like to go cycling, take walks and jogs, and I'm also a big fan of swimming.
 
-<<<<<<< HEAD
-=======
-- If you wish to get in touch with me, feel free to drop me a message.
-  
->>>>>>> origin/main
 </div>
 
 
