@@ -20,9 +20,9 @@
 # Desarrollador Fullstack
 
 Como desarrollador Full Stack con base en Argentina, me especializo en el desarrollo y mantenimiento de aplicaciones web, con experiencia tanto en el desarrollo del lado del servidor como del lado del cliente. Mi conjunto de habilidades abarca varios lenguajes de programación, como HTML, CSS, JavaScript, Node.js, React y Redux. Poseo un fuerte entendimiento de los principios fundamentales de programación y puedo trabajar tanto en entornos de desarrollo como de producción, colaborando efectivamente con otros miembros del equipo.
-  <div align="left">
+    <div align="center">
     
-* Correo: [__francoibanez.dev@gmail.com__](mailto:francoibanez.dev@gmail.com)
+    francoibanez.dev@gmail.com
     
   </div>
 ## :school: Educación
