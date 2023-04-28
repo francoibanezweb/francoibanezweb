@@ -25,6 +25,7 @@ Como desarrollador Full Stack con base en Argentina, me especializo en el desarr
     francoibanez.dev@gmail.com
     
   </div>
+  
 ## :school: Educación
 <div align="left">
 
