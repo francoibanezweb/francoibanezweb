@@ -1,6 +1,10 @@
 
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/D4D16AQEdyHtRpk-Qtw/profile-displaybackgroundimage-shrink_350_1400/0/1681330192761?e=1687996800&v=beta&t=FpCOXp3G7iVvDg7EuD3DJxeHpL2OvG5FAKA2PqrBn-s" width="800" height="160" alt="banner-picture">
+  <div align="left" style="padding: 10px; margin: -10px;">
+
+  [ESPAÑOL](./spanish.md)
+</div>
     <div id="badges">
       <a href="https://www.linkedin.com/in/francoibanezweb/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedInBadge"> 
@@ -9,12 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
        </a>
     </div>
-    <!-- <img src="https://komarev.com/ghpvc/?username=francoibanezweb&style=flat-square&color=blue" alt=""/> -->
-  
-<!-- </div> -->
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/AWxKqonePVLMY/giphy.gif" width="500" height="250"/>
-</div> -->
+    
 ---
 
 ### :man_technologist: About Me :
@@ -29,9 +28,9 @@ As a Full Stack Developer hailing from Argentina, I specialize in developing and
 ## :school: Education
 <div align="left">
 
-- Systems Engineering program at the National University of La Plata (UTN FRLP)
-- Full Stack Web Development (Henry Bootcamp)
-- Astillero Río Santiago Technical School, Factory Private School
+- First year student of Information Systems Engineering at UTN FRLP.
+- Full Stack Web Development (Henry bootcamp).
+- Electromechanical Technician - Technical School of Astillero Río Santiago (ETARS) P.F.
 
 </div>
 
@@ -39,15 +38,14 @@ As a Full Stack Developer hailing from Argentina, I specialize in developing and
 
 <div align="left">
 
-- Solving problems on CodeWars and FreeCodeCamp.org
+- Solving programming problems on exercise websites.
 
-- Reading tech articles
+- I'm interested in reading technical articles on various topics.
 
-- I enjoy all kinds of reading.
+- I enjoy reading of all kinds.
 
-- I enjoy cycling, going for walks and jogs, and I also really like swimming.
+- I like to go cycling, take walks and jogs, and I'm also a big fan of swimming.
 
-- If you wish to get in touch with me, feel free to drop me a message.
 </div>
 
 
