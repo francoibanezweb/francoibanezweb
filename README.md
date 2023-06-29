@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQEdyHtRpk-Qtw/profile-displaybackgroundimage-shrink_350_1400/0/1681330192761?e=1687996800&v=beta&t=FpCOXp3G7iVvDg7EuD3DJxeHpL2OvG5FAKA2PqrBn-s" width="800" height="160" alt="banner-picture">
+  <img src="https://media.licdn.com/dms/image/D4D16AQEdyHtRpk-Qtw/profile-displaybackgroundimage-shrink_350_1400/0/1681330192761?e=1693440000&v=beta&t=M8qbXdVtepkl26LPdVRk3oPmkmZJTiT5CfrKrCOGbPM" width="800" height="160" alt="banner-picture">
   <div align="left" style="padding: 10px; margin: -10px;">
 
   [ESPAÑOL](./spanish.md)
