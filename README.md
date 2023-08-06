@@ -14,42 +14,6 @@
     </div>
     
 ---
-
-### :man_technologist: About Me :
-# Full Stack Developer
-
-As a Full Stack Developer hailing from Argentina, I specialize in developing and maintaining web applications, with expertise in both server-side and client-side development. My skill set spans across various programming languages, including HTML, CSS, JavaScript, Node.js, React, and Redux. I possess a strong understanding of fundamental programming principles and can work in both development and production environments while collaborating effectively with other team members.
-  <div align="center">
-    
-    francoibanez.dev@gmail.com
-    
-  </div>
-  
-## :school: Education
-<div align="left">
-
-- First year student of Information Systems Engineering at UTN FRLP.
-- Full Stack Web Development (Henry bootcamp).
-- Electromechanical Technician - Technical School of Astillero Río Santiago (ETARS) P.F.
-
-</div>
-
-##  🏃 🚴 📖 Interests
-
-<div align="left">
-
-- Solving programming problems on exercise websites.
-
-- I'm interested in reading technical articles on various topics.
-
-- I enjoy reading of all kinds.
-
-- I like to go cycling, take walks and jogs, and I'm also a big fan of swimming.
-
-</div>
-
-
-
 ## :hammer_and_wrench: Tech Stack : 
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
