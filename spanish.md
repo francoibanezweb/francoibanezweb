@@ -16,41 +16,6 @@
 
 ---
 
-### :man_technologist: Sobre mí :
-# Desarrollador Fullstack
-
-Como desarrollador Full Stack con base en Argentina, me especializo en el desarrollo y mantenimiento de aplicaciones web, con experiencia tanto en el desarrollo del lado del servidor como del lado del cliente. Mi conjunto de habilidades abarca varios lenguajes de programación, como HTML, CSS, JavaScript, Node.js, React y Redux. Poseo un fuerte entendimiento de los principios fundamentales de programación y puedo trabajar tanto en entornos de desarrollo como de producción, colaborando efectivamente con otros miembros del equipo.
-    <div align="center">
-    
-    francoibanez.dev@gmail.com
-    
-  </div>
-  
-## :school: Educación
-<div align="left">
-
-- Estudiante de 1er año Ingeniería en Sistemas de Información en la UTN FRLP.
-- Desarrollo Web Full Stack (Henry bootcamp).
-- Técnico electromecánico - Escuela Técnica Astillero Río Santiago (ETARS) P.F.
-
-</div>
-
-## 🏃 🚴 📖 Intereses
-
-<div align="left">
-
-- Resolver problemas de programación en sitiosweb de ejercitación.
-
-- Me interesa informarme en artículos técnicos en temas varios.
-
-- Disfruto de todo tipo de lectura.
-
-- Andar en bicicleta, dar paseos y trotar, y también me gusta mucho nadar.
-
-</div>
-
-
-
 ## :hammer_and_wrench: Tecnologías : 
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
