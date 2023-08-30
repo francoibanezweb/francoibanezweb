@@ -23,6 +23,7 @@
 
 <div align="center" style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin-bottom: 60px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="cshpar" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="50" height="50"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="50" height="50"/>&nbsp;  
