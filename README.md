@@ -1,10 +1,7 @@
 <div id="header" align="center" style="text-align: center; margin-bottom: 40px;">
   <img src="https://media.licdn.com/dms/image/D4D16AQEdyHtRpk-Qtw/profile-displaybackgroundimage-shrink_350_1400/0/1681330192761?e=1693440000&v=beta&t=M8qbXdVtepkl26LPdVRk3oPmkmZJTiT5CfrKrCOGbPM" width="800" height="160" alt="banner-picture">
-  <div align="left" style="padding: 10px; margin: -10px;">
-    
-  [ESPAÑOL](./spanish.md)
-  </div>
-</div>
+
+  &nbsp;
 
 <div id="badges" align="center" style="text-align: center; margin-bottom: 40px;">
   <a href="https://www.linkedin.com/in/francoibanezweb/">
