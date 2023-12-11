@@ -1,7 +1,3 @@
-<div id="header" align="center" style="text-align: center; margin-bottom: 40px;">
-  <img src="https://media.licdn.com/dms/image/D4D16AQEdyHtRpk-Qtw/profile-displaybackgroundimage-shrink_350_1400/0/1681330192761?e=1700092800&v=beta&t=NwYlrGH31ycUKX8d-CqNhVMP9Qws5d5X5usrlheTnVY" width="800" height="160" alt="banner-picture">
-
-  &nbsp;
 
 <div id="badges" align="center" style="text-align: center; margin-bottom: 40px;">
   <a href="https://www.linkedin.com/in/francoibanezweb/">
@@ -15,7 +11,7 @@
 ---
 
 <div align="center" style="text-align: center; margin-bottom: 60px;">
-  <h2>:hammer_and_wrench: Tech Stack :</h2>
+  <h2> Tech Stack :</h2>
 </div>
 
 <div align="center" style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin-bottom: 60px;">
