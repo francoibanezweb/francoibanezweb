@@ -1,11 +1,5 @@
 <div id="badges" align="center" style="text-align: center; margin-bottom: 40px;">
   <img src="https://media.licdn.com/dms/image/D4D16AQHXeOkJfdkavQ/profile-displaybackgroundimage-shrink_350_1400/0/1705348977025?e=1713398400&v=beta&t=uWuiF6oOiUC8KBlmLuESHptfTRm2wdqpaDfxEBP3xOk" title="profile-banner" />
-  <a href="https://www.linkedin.com/in/francoibanezweb/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedInBadge"> 
-  </a>
-  <a href="https://twitter.com/francoibanezweb">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 ---
