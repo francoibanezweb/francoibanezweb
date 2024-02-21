@@ -1,9 +1,3 @@
-<div id="badges" align="center" style="text-align: center; margin-bottom: 40px;">
-  <img src="https://media.licdn.com/dms/image/D4D16AQHXeOkJfdkavQ/profile-displaybackgroundimage-shrink_350_1400/0/1705348977025?e=1713398400&v=beta&t=uWuiF6oOiUC8KBlmLuESHptfTRm2wdqpaDfxEBP3xOk" title="profile-banner" />
-</div>
-
----
-
 <div align="center" style="text-align: center; margin-bottom: 60px;">
   <h2> Tech Stack :</h2>
 </div>
